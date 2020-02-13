@@ -1,0 +1,2 @@
+Sat se sastoji od niza serijski spojenih adresabilnih LED traka. 
+Pomoću arduina pale se određene diode kako bi zasvijetlili segmenti i prikazali točno vrijeme.
