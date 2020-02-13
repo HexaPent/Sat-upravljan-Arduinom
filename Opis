@@ -1,2 +1,6 @@
 Sat se sastoji od niza serijski spojenih adresabilnih LED traka. 
 Pomoću arduina pale se određene diode kako bi zasvijetlili segmenti i prikazali točno vrijeme.
+
+Paljenje dioda odvija se prema slučajevima gdje jedna minuta predstavlja case 1, dvije minute case 2, itd.
+Pomoću for petlje pale se diode pod određenim rednim brojem (prva dioda nalazi se na nultom mjestu što znači da brojevi idu do n-1 gdje 
+je n ukupan broj dioda).
